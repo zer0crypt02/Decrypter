@@ -1,5 +1,5 @@
 <picture align="left">
-  <img width="500" height="500" alt="Remove Background Image" src="https://github.com/user-attachments/assets/261cdef9-f5c2-4449-a7e2-83ee3a5e8d31" />
+  <img width="100" height="100" alt="Remove Background Image" src="https://github.com/user-attachments/assets/261cdef9-f5c2-4449-a7e2-83ee3a5e8d31" />
 </picture>
 
 # Decrypter
