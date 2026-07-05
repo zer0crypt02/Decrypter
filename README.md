@@ -1,13 +1,4 @@
-<table>
-  <tr>
-    <td width="72" valign="middle">
-      <img width="64" height="64" alt="Remove Background Image" src="https://github.com/user-attachments/assets/8e69fe49-1233-441b-820d-f4a9d8e2fd8e" />
-    </td>
-    <td valign="middle">
-      <h1 style="margin: 0;">Decrypter</h1>
-    </td>
-  </tr>
-</table>
+# Decrypter
 
 > **Hex & XOR Decoder — Reverse Engineering Helper**  
 > Hexadecimal conversions, single-byte XOR decoding, and 256-key brute-force all in one CLI tool.
